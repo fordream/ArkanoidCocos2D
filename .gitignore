@@ -1,0 +1,13 @@
+proj.android/
+proj.blackberry/
+proj.ios/
+proj.linux/
+proj.marmalade/
+proj.tizen/
+proj.win32/
+proj.wp8/
+proj.wp8-xaml/
+proj.mac/Build
+proj.winrt/
+proj.mac/ArkanoidCocos2D.xcodeproj/project.xcworkspace/
+proj.mac/ArkanoidCocos2D.xcodeproj/xcuserdata/
